@@ -1,0 +1,7 @@
+{
+  "name": "NexInventory AI",
+  "description": "A modern, Odoo-style inventory management system with AI-powered insights, barcode scanner support, and multi-carrier shipping integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
